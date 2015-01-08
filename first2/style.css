@@ -1,0 +1,27 @@
+html, body {
+	height: 100%;
+	background: rgb(201, 201, 201);
+	margin: 0;
+}
+
+.hclass {
+	height: 15%;
+	width: 100%;
+	background: rgb(109, 109, 109);
+	padding-top: 10px;
+}
+
+.middlep {
+	height: 80%;
+	width: 80%;
+	background: rgb(255, 255, 255);
+	margin: 0 auto;
+}
+
+.lowerbar {
+	height: 5%;
+	width: 80%;
+	background: rgb(25, 25, 25);
+	margin: 0 auto;
+	padding-bottom: 10px;
+}

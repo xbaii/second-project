@@ -1,0 +1,36 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+.box {
+	height: 100%;
+	width: 33.3%;
+	float: left;
+}
+
+.one {
+	background: rgb(113, 165, 217);
+}
+
+.two {
+	background: rgb(72, 207, 189);
+}
+
+.three {
+	background: rgb(186, 223, 123);
+	height: 75%;
+}
+
+.box4 {
+	height: 25%;
+	width: 33.3%;
+	float: left;
+	background: red;
+}
+
+.text {
+	color: white;
+	text-align: center;
+}
+
