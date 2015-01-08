@@ -1,14 +1,21 @@
 html, body {
 	height: 100%;
-	background: rgb(158, 165, 172)
+	background: rgb(158, 165, 172);
+	margin: 0;
+}
+
+.box {
+	height: 15%;
+	width: 100%;
+	margin: 0;
 }
 
 .box1 {
 	background: rgb(87, 155, 223);
-	height: 10%;
-	width: 8%;
-	margin-top: 10px;
-	margin-left: 10px;
+	height: 40px;
+	width: 40px;
+	padding: 10px;
+
 }
 
 .box2 {
@@ -18,34 +25,23 @@ html, body {
 	margin: 0;
 }
 
-.box3 {
+.three {
 	background: rgb(87, 155, 223);
-	height: 15%;
-	width: 100%;
-	margin: 0;
 }
 
-.box4 {
+.four {
 	background: rgb(87, 207, 195);
-	height: 15%;
-	width: 100%;
-	margin: 0;
 }
 
-.box5 {
+.five {
 	background: rgb(191, 224, 142);
-	height: 15%;
-	width: 100%;
-	margin: 0;
 }
 
-.box6 {
+.six {
 	background: rgb(227, 208, 32);
-	height: 15%;
-	width: 100%;
-	margin: 0;
 }
 .text {
-	font-size: 25px;
+	font-size: 12px;
 	text-align: center;
+	padding: 20px;
 }
